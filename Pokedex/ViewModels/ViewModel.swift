@@ -25,4 +25,12 @@ class ViewModel: ObservableObject {
         self.pokemonList = pokemonManager.getPokemon()
         print(pokemonList)
     }
+    
+    // Get the index of a pokemon ( index + 1 = pokemon id)
+    func getPokemonIndex(pokemon: Pokemon) -> Int {
+        if let index = self.pokemonList.firstIndex(of: pokemon) {
+            return index + 1
+        }
+        return 0
+    }
 }
