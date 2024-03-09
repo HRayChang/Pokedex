@@ -8,7 +8,7 @@
 
 An app contains detailed stats for 150 creatures from the Pokémon games, allowing users to search for a Pokémon by name.
 
-<img src="https://s33.aconvert.com/convert/p3r68-cdx67/92m27-uqubu.gif" width="800">
+<img src="https://github.com/HRayChang/Pokedex/assets/111962195/ab6c7d73-52db-433d-9a15-afc12c640686" width="800">
 </div>
 
 <br />
